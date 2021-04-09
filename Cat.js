@@ -1,3 +1,4 @@
 function(){
-	
+
 }
+module.exports = Cat;
